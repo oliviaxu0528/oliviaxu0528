@@ -8,7 +8,7 @@ After 5 years working in finance&accounting, I realized how tech is disrupting t
 
 Always learning, and always open to opportunities.
 
-🔭 I’m currently working on - Finance modeling application, Sports Application(I'm a BIG fan of Basketball)
+:climbing_woman: I’m currently working on - Finance modeling application, Sports Application(I'm a BIG fan of Basketball)
 
 :mountain_snow: Ask me about - Python, Javascript, Personal Finance, Basketball
 
