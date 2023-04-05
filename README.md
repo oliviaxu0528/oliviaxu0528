@@ -1,6 +1,6 @@
 ### Hi, Olivia Here 👋 Welcome!
 
-I'm a full stack developer, currently living in Seattle, WA. 
+I'm a full stack developer, based in Seattle, WA. 
 
 After 5 years working in finance&accounting, I realized how tech is disrupting the traditional industry, driving greater efficiency, security, automation and etc. I'm passionate about revolutionization. Previously, I got chance to work closely with software developer team as a Domain Specialist. Thus, I decided to make a career change to become a SWE. :woman_technologist:
 
