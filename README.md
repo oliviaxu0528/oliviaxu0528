@@ -1,4 +1,4 @@
-### Hi, Olivia Here 👋 Welcome to my github.
+### Hi, Olivia Here 👋 Welcome!
 
 I'm a full stack developer, currently living in Seattle, WA. 
 
