@@ -8,9 +8,9 @@ After 5 years working in finance&accounting, I realized how tech is disrupting t
 
 Always learning, and always open to opportunities.
 
-:climbing_woman: I’m currently working on - Finance modeling application, Sports Application(I'm a BIG fan of Basketball)
+:climbing_woman: I’m currently working on - Finance modeling application, Sports Application(I'm a BIG fan of :basketball:)
 
-:mountain_snow: Interets - Python, Javascript, Personal Finance, Basketball，AI/ML, Vlog in Youtube Channel(link on the left :grin:)
+:mountain_snow: Interets - Python, Javascript, Personal Finance, Basketball，AI/ML, Vlog :camera: in Youtube Channel(link on the left :grin:)
 
 📫 How to reach me: oliviaxu0528@gmail.com
 
