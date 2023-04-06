@@ -29,7 +29,7 @@ Always learning, and always open to opportunities.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
- Docker | FastAPI 
+ Docker | FastAPI | Message Queue
 
 
 **Version Control and Development tools used:**
