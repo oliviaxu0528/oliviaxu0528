@@ -2,7 +2,7 @@
 
 I'm a full stack developer, based in Seattle, WA. 
 
-After 5 years working in finance&accounting, I realized how tech is disrupting the traditional industry, driving greater efficiency, security, automation and etc. I'm passionate about revolutionization. Previously, I got chance to work closely with software developer team as a Domain Specialist. Thus, I decided to make a career change to become a SWE. :woman_technologist:
+After 5 years working in finance&accounting, I realized how tech is disrupting the traditional industry, driving greater efficiency, security, automation and etc. I'm passionate about revolutionization. Previously, I got chance to work closely with software developer team as a Domain Specialist. Thus, I decided to make a career change to become a SWE. :woman_technologist:I graduated from Hack Reactor bootcamp.
 
 :rocket: My passion for software lies with endless opportunities for innovation and problem-solving, creating software applications and systems that can make a difference on individuals and community, as well as continuously learn and adapt to new technologies. 
 
@@ -28,6 +28,8 @@ Always learning, and always open to opportunities.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+Docker | FastAPI 
 
 
 **Version Control and Development tools used:**
