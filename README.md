@@ -39,4 +39,4 @@ Always learning, and always open to opportunities.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-**PS:previously using gitlab and moved to github around March 2023. My gitlab: gitlab.com/oliviaxuu **
+**PS:Previously using Gitlab and moved to github around March 2023. :white_check_mark:My Gitlab:[Here](https://gitlab.com/oliviaxuu)**
