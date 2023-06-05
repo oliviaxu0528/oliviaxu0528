@@ -6,7 +6,7 @@ After 5 years working in finance&accounting, I realized how tech is disrupting t
 
 :rocket: My passion for software lies with endless opportunities for innovation and problem-solving, creating software applications and systems that can make a difference on individuals and community, as well as continuously learn and adapt to new technologies. 
 
-Always learning, and always open to opportunities.
+Always learning, and always open to opportunities. Currently:Business Analyst@Amazon Transfer Pricing Team
 
 :climbing_woman: I’m currently working on - Finance modeling application, Sports Application(I'm a BIG fan of :basketball:)
 
